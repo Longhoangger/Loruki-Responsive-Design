@@ -1,0 +1,3 @@
+/* index.html 200
+/* features.html 200
+/* docs.html 200
